@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>4</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\adinkra.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_a5ed79cd484d428880b9f9ecc69603a2</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\adinkra.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f2c39cf9e4afd23e33f297a0a945fd45</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\adinkra.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\HISTORY.md</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_12c440760c19f2113428fe4a3ff62fac</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_7fb78959945803bbcfe50a0e95d3580e</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1c9d0b2b66094f6a9afc980fd29c8dc5</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|9|   |0</DebugFont>
+        <CodeFont>Adinkra|9|   |0</CodeFont>
+        <CharFont>Consolas|9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_04153c1e4547a4bca73ce898466772e1</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4fe22cb78dc911086345879bfa443f98</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ab9e61737ccee08db07f7bc21abb7654</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\..\build\adinkra.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_a64bbfddf59a7bef4c0af35ee914c10b</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\..\build\adinkra.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_03daef8a4977de05f7b533a95add75bc</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\..\build\adinkra.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>README.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\README.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>LICENSE.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\LICENSE.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>HISTORY.md</Filename>
+      <FileType>.md</FileType>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\HISTORY.md</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>adinkra.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\cmkor\OneDrive\Documents\Keyman Developer\Projects\adinkra\source\adinkra.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
